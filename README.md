@@ -27,15 +27,15 @@ CREATE TABLE IF NOT EXISTS users (
     dob DATE NOT NULL
 );
 ```
-#2.Configure Database Connection
-Open config.php
-Modify the database connection details in these files to match your MySQL server.
+##2.Configure Database Connection
+-Open `config.php`
+-Modify the database connection details in these files to match your MySQL server.
 
-#3. Web Server Setup
-Place the project files in your web server directory.
+##3. Web Server Setup
+-Place the project files in your web server directory.
 
-#4.Access the Project
-Open your web browser and go to the project directory.
-Access index.php to submit the user data form.
-Access display.php to view the stored user data in a tabular format.
+##4.Access the Project
+-Open your web browser and go to the project directory.
+-Access `index.php` to submit the user data form.
+-Access `display.php` to view the stored user data in a tabular format.
 
